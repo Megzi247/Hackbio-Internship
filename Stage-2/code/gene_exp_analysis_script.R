@@ -155,3 +155,4 @@ ggplot(upreg_pathways[c(1:5),], aes(x = Pathways_names, y = nGenes)) + # definin
   theme(plot.title = element_text(size = 20),
         axis.title = element_text(size = 16),
         axis.text = element_text(size = 14)) # Adjusting text sizes in the plot
+
